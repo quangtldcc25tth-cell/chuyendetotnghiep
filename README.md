@@ -1,7 +1,7 @@
 # Quản lý dự án sản xuất âm thanh (Mức 1 – Thực tập ngành)
 
 Ứng dụng Streamlit: dashboard KPI, chi tiết dự án (VST/ghi chú/link Drive), dự báo nguy cơ trễ hạn
-(baseline Logistic Regression), wiki quy trình 7 giai đoạn.
+(baseline Logistic Regression), quy trình 7 giai đoạn.
 
 ## Cài đặt và chạy (Windows)
 ```
