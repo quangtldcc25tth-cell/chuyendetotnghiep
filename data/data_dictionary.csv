@@ -1,0 +1,16 @@
+﻿cot,y_nghia,kieu_du_lieu,thoi_diem_biet,vai_tro_ghi_chu
+du_an_id,Mã dự án,chuỗi,Khóa chính,Định danh
+ngay_nhan_brief,Ngày nhận brief,ngày (YYYY-MM-DD),Đã biết lúc bắt đầu,Dùng để chia train/test theo thời gian
+loai_san_pham,Loại sản phẩm,phân loại,Đã biết lúc bắt đầu,Đặc trưng (feature)
+the_loai,Thể loại nhạc,phân loại,Đã biết lúc bắt đầu,Đặc trưng; sau này là khái niệm trong Ontology
+bpm,Nhịp độ (BPM),số nguyên,Đã biết lúc bắt đầu,Đặc trưng
+so_track,Số track dự kiến trong project DAW,số nguyên,Ước lượng lúc bắt đầu,Đặc trưng
+so_vst,Số VST/plugin dự kiến dùng,số nguyên,Ước lượng lúc bắt đầu,Đặc trưng
+do_phuc_tap_brief,Độ phức tạp của brief (1-5),số nguyên 1-5,Đánh giá lúc nhận brief,Đặc trưng
+khach_hang_moi,Khách hàng mới (1) hay cũ (0),nhị phân,Đã biết lúc bắt đầu,Đặc trưng
+co_bai_tham_khao,Brief có bài tham khảo (1) hay không (0),nhị phân,Đã biết lúc bắt đầu,Đặc trưng
+so_ngay_deadline,Số ngày deadline đã thỏa thuận,số nguyên,Đã biết lúc bắt đầu,Đặc trưng; cũng là mốc để xác định trễ hạn
+so_vong_chinh_sua,Số vòng chỉnh sửa theo yêu cầu khách,số nguyên,CHỈ BIẾT SAU KHI XONG,KHÔNG dùng khi dự báo lúc bắt đầu (rò rỉ dữ liệu); chỉ dùng cho phân tích
+so_ngay_thuc_te,Số ngày thực tế hoàn thành,số nguyên,KẾT QUẢ,Target cho bài toán hồi quy
+so_ngay_tre,Số ngày trễ so với deadline (0 nếu đúng hạn),số nguyên,KẾT QUẢ,"Chỉ dùng cho dashboard, KHÔNG làm feature"
+tre_han,Trễ hạn (1) hay đúng hạn (0),nhị phân,KẾT QUẢ,Target cho bài toán phân loại
